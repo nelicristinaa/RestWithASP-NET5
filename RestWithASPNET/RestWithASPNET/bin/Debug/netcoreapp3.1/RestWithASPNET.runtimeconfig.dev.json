@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eqrznlc.ERICSSON\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eqrznlc.ERICSSON\\.nuget\\packages"
+    ]
+  }
+}
